@@ -25,4 +25,4 @@ Output: [["a"]]
 
 *Medium*
 
-[leetcode](https://leetcode.com/problems/rotate-image/)
+[leetcode](https://leetcode.com/problems/group-anagrams/)
